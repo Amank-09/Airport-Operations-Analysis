@@ -82,10 +82,10 @@ Use:
 
 4️⃣ Visualize in Python
 Open:
-jupyter notebook
+- jupyter notebook
 Run:
-AirportProject.ipynb
-EmployeeDash.ipynb
+- AirportProject.ipynb
+- EmployeeDash.ipynb
 
 This regenerates outputs & graphs automatically.
 
