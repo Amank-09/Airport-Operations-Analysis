@@ -48,40 +48,40 @@ These notebooks handle:
 
 📌 Key Insights Generated (Summary)
 
-Identified peak and off-peak months for air travel
+- Identified peak and off-peak months for air travel
 
-Found underperforming routes with low utilization
+- Found underperforming routes with low utilization
 
-Determined longest & busiest routes
+- Determined longest & busiest routes
 
-Analyzed city-to-city travel patterns
+- Analyzed city-to-city travel patterns
 
-Uncovered YOY growth & decline trends
+- Uncovered YOY growth & decline trends
 
-Identified high-performance airports
+- Identified high-performance airports
 
-Generated data storytelling for airline strategy
+- Generated data storytelling for airline strategy
 
 📝 Storytelling Summary
 
-Airline data revealed:
+- Airline data revealed:
 
-Certain routes show continuous growth, ideal for expansion
+- Certain routes show continuous growth, ideal for expansion
 
-Several routes have less than 50% seat utilization, needing optimization
+- Several routes have less than 50% seat utilization, needing optimization
 
-Seasonal peaks were not matched with scheduling, creating inefficiencies
+- Seasonal peaks were not matched with scheduling, creating inefficiencies
 
-Long-distance routes were high-demand but resource-heavy
+- Long-distance routes were high-demand but resource-heavy
 
-Balanced decisions are needed for capacity management and route planning
+- Balanced decisions are needed for capacity management and route planning
 
-This project provides a complete operational view to enable data-driven airline strategies.
+**This project provides a complete operational view to enable data-driven airline strategies.**
 
 🙌 Author
 
-Aman Kushwaha
-Data Engineer | SQL | Python | Machine Learning 
+**Aman Kushwaha**
+- Data Engineer | SQL | Python | Machine Learning 
 
 ⭐ If you found this useful, consider giving the repository a star!
 
