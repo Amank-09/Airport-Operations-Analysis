@@ -68,9 +68,10 @@ These notebooks handle:
 ## 🛠️ How to Run the Project
 
 ### **1️⃣ Setup Database**
-```sql
-CREATE DATABASE airport_db;
-USE airport_db;
+
+```sql```
+```CREATE DATABASE airport_db;```
+```USE airport_db;```
 
 2️⃣ Insert Data
 Run DBInsert.ipynb to load dataset into MySQL.
@@ -84,14 +85,9 @@ Run both SQL files in order.
 
 4️⃣ Visualize in Python
 Open:
-
-bash
-Copy code
 jupyter notebook
 Run:
-
 AirportProject.ipynb
-
 EmployeeDash.ipynb
 
 This regenerates outputs & graphs automatically.
