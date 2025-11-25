@@ -78,10 +78,7 @@ Run DBInsert.ipynb to load dataset into MySQL.
 
 3️⃣ Execute SQL Queries
 Use:
-
-MySQL Workbench / DBeaver / VS Code
-
-Run both SQL files in order.
+- MySQL Workbench / DBeaver / VS Code
 
 4️⃣ Visualize in Python
 Open:
