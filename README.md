@@ -81,9 +81,9 @@ Use:
 - MySQL Workbench / DBeaver / VS Code
 
 4️⃣ Visualize in Python
-Open:
+**Open:**
 - jupyter notebook
-Run:
+**Run:**
 - AirportProject.ipynb
 - EmployeeDash.ipynb
 
