@@ -62,25 +62,12 @@ These notebooks handle:
 
 - Generated data storytelling for airline strategy
 
-📝 Storytelling Summary
-
-- Airline data revealed:
-
-- Certain routes show continuous growth, ideal for expansion
-
-- Several routes have less than 50% seat utilization, needing optimization
-
-- Seasonal peaks were not matched with scheduling, creating inefficiencies
-
-- Long-distance routes were high-demand but resource-heavy
-
-- Balanced decisions are needed for capacity management and route planning
+---
 
 **This project provides a complete operational view to enable data-driven airline strategies.**
 
-🙌 Author
-
-**Aman Kushwaha**
+# Author
+  **Aman Kushwaha**
 - Data Engineer | SQL | Python | Machine Learning 
 
 ⭐ If you found this useful, consider giving the repository a star!
