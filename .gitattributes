@@ -1,2 +1,8 @@
-*.ipynb linguist-detectable=false
+# Ignore Jupyter Notebook JSON for language stats
+*.ipynb linguist-documentation=true
+
+# Count SQL correctly
 *.sql linguist-language=SQL
+
+# Count Python correctly
+*.py linguist-language=Python
