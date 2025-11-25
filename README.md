@@ -1,4 +1,4 @@
-# ✈️ Airport Operations Data Analysis (SQL & Python)
+# ✈️ Airport Operations Analysis (SQL & Python)
 
 This project analyzes **airport operational data** using SQL and Python to uncover insights related to:
 - Passenger trends  
